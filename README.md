@@ -1,7 +1,7 @@
 <h2>Desafio proposto no curso de HTML "DEVELOPER"</h2>
 
 
-O Desafio foi criar uma página para treinas as Tag
+O Desafio foi criar uma página para treinar as "Tag".
 
 Para visualizar o Projeto como site. <a href="https://avalosdev.github.io/Desafio01_Html/">Saiba mais</a>
 <br>
